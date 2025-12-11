@@ -5,8 +5,7 @@ body{
     align-items: center;
     max-width: 500px;
     margin: 10px auto;
-    font-family: cursive
-    
+    font-family: cursive;  
 }
 
 button{
@@ -21,4 +20,13 @@ button{
 }
 button:hover{
     background-color: #dfa8b5;
+}
+
+.ideaText{
+    color: aliceblue;
+    text-shadow: 5px 5px 5px #735D78;
+    font-family: "Chewy", system-ui;
+    font-weight: 200;
+    font-style: normal;
+  
 }
